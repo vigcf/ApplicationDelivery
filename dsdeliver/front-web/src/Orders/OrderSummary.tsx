@@ -1,7 +1,3 @@
-import './styles.css';
-import { ReactComponent as Logo } from './logo.svg';
-import { Link } from 'react-router-dom';
-import { type } from 'os';
 import { formatPrice } from './helpers';
 
 type Props = {
