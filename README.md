@@ -6,3 +6,7 @@ O projeto consiste em uma aplicação Web que gerencia pedidos de pizzas para um
 
 O projeto foi desenvolvido através do Visual Studio Code utilizando Java, Spring Boot, Maven, HTML, CSS, React, TypeScript e o bando de dados PostgreSQL
 
+
+ <a href="https://imgur.com/4ne73CN"><img src="https://i.imgur.com/4ne73CN.png" title="source: imgur.com" /></a>
+ 
+ <a href="https://imgur.com/2WNrvRo"><img src="https://i.imgur.com/2WNrvRo.png" title="source: imgur.com" /></a>
